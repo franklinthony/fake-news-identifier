@@ -18,7 +18,7 @@
     <img alt="Repository issues" src="https://img.shields.io/github/issues/franklinthony/fake-news-identifier">
   </a>
   
-  <a href="https://colab.research.google.com/github/franklinthony/superv-unsuperv-ai/blob/main/superv-unsuperv-ai.ipynb">
+  <a href="https://colab.research.google.com/github/franklinthony/fake-news-identifier/blob/main/fake_news_identifier.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>
 </a>
 </p>
