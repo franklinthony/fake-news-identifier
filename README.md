@@ -1,5 +1,5 @@
 <h1 align="center">
-    :heavy_multiplication_x: :heavy_division_sign:
+    :heavy_multiplication_x: :heavy_check_mark:
 </h1>
 
 <h1 align="center">
